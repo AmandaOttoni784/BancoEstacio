@@ -39,6 +39,8 @@ Registra no extrato.
 
 6. Extrato: mostra todas as transações realizadas.
 
+   
+
 4. Sair: encerra o programa.
 
 Histórico (ArrayList<String>):
